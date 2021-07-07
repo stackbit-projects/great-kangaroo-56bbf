@@ -109,7 +109,7 @@ sections:
 layout: advanced
 seo:
   title: Moshe Cohen
-  description: ''
+  description: Best website ever
   robots: []
   extra: []
   type: stackbit_page_meta
