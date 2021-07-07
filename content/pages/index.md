@@ -108,7 +108,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: Moshe Cohen
   description: ''
   robots: []
   extra: []
